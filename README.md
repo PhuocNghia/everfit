@@ -1,4 +1,4 @@
-I use the Duplicator Plugin to create a backup for the website. Below are the steps to restore it:  
+I use the Duplicator Plugin to create a backup for the website. Below are the steps to restore it  
 --------------------------------------------  
 Step 1: Create an empty database with any desired name.  
 Step 2: Upload the zip file and installer.php to the server.  
