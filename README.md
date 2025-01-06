@@ -5,7 +5,7 @@ Step 2: Upload the zip file and installer.php to the server.
 Step 3: Run the installer.php file (https://your-url/installer.php).
 Step 4: Enter the database information and select "Continue."
 Step 5: Log in to the Website Dashboard.
-
+----------------------------------------------------------------
 Website Login Info:
 User: admin
 Pass: @Pass123#
